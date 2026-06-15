@@ -11,26 +11,6 @@
             "id": "f9a4a2cf9085649e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ようこそ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ようこそ"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2b63e2dbee9db259",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0bd16287cb03524d",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -180,13 +160,33 @@
               "icon": "lucide-list",
               "title": "ようこそのアウトライン"
             }
+          },
+          {
+            "id": "4f16de3e66a79579",
+            "type": "leaf",
+            "state": {
+              "type": "github-issue-controls-view",
+              "state": {},
+              "icon": "github",
+              "title": "Github Issue Controls"
+            }
+          },
+          {
+            "id": "51c8a52169d2f4ae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,6 +203,9 @@
   },
   "active": "f9a4a2cf9085649e",
   "lastOpenFiles": [
+    "無題のファイル.canvas",
+    "2026-04-29.md",
+    "無題のファイル.base",
     "README.md",
     "ようこそ.md"
   ]
