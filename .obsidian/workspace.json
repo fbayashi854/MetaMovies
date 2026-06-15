@@ -11,10 +11,14 @@
             "id": "f9a4a2cf9085649e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "VS CODEをリモートで使う.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VS CODEをリモートで使う"
             }
           }
         ]
@@ -204,8 +208,12 @@
   "active": "f9a4a2cf9085649e",
   "lastOpenFiles": [
     "無題のファイル.canvas",
-    "2026-04-29.md",
     "無題のファイル.base",
+    "VS CODEをリモートで使う.md",
+    "無題のフォルダ",
+    "西表2026.md",
+    "text.md",
+    "2026-04-29.md",
     "README.md",
     "ようこそ.md"
   ]
