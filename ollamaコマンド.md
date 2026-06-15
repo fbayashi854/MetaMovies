@@ -1,0 +1,4 @@
+- ollama list ダウンロードされているLLMのリスト
+- ollama pull <LLMパッケージ名> LLMのダウンロード
+- ollama ps メモリにいるLLM
+- ollama rm <LLMパッケージ名> パッケージを削除
