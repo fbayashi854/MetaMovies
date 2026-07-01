@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ようこそ.md",
+                "file": "Aiderとollamaでコーディング.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ようこそ"
+              "title": "Aiderとollamaでコーディング"
             }
           }
         ]
@@ -207,21 +207,23 @@
   },
   "active": "f9a4a2cf9085649e",
   "lastOpenFiles": [
-    "note下書き1.md",
-    "練習アプリ　“タイピング　コード　スナイパー“.md",
     "VS CODEをリモートで使う.md",
+    "note下書き1.md",
+    "GitHub.md",
+    "note下書き2.md",
+    "Chat GPT.md",
+    "ようこそ.md",
+    "練習アプリ　“タイピング　コード　スナイパー“.md",
     "text.md",
     "README.md",
     "ollamaコマンド.md",
     "Obisidian GitHub連携(Mac側).md",
-    "GitHub.md",
     "Aiderとollamaでコーディング.md",
     "aider.md",
     "無題のファイル.canvas",
     "無題のファイル.base",
     "西表2026.md",
     "2026-04-29.md",
-    "無題のフォルダ",
-    "ようこそ.md"
+    "無題のフォルダ"
   ]
 }
